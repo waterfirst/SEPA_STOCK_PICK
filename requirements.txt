@@ -3,6 +3,4 @@ yfinance
 pandas
 numpy
 plotly
-concurrent
 requests
-io
