@@ -1,0 +1,1 @@
+# SEPA_STOCK_PICK
