@@ -1,108 +1,3 @@
-# US ETF Analysis & SEPA Strategy Dashboard 📈
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://usa-etf-pick-sepa-stratage.streamlit.app/)
-
-## Overview
-
-This project provides a comprehensive dashboard for analyzing US mid and small-cap stocks using the SEPA (Super Efficiency Portfolio Analysis) strategy. The dashboard helps investors identify potential investment opportunities by analyzing technical indicators and market trends.
-
-## SEPA Strategy
-
-The SEPA strategy is a technical analysis approach that looks for stocks meeting the following criteria:
-- Price is above the 200-day moving average
-- 150-day moving average is above the 200-day moving average
-- 50-day moving average is above both 150 and 200-day moving averages
-- Current price is above the 5-day moving average
-- 200-day moving average shows an upward trend
-- Price is at least 30% above the 52-week low
-
-## Features
-
-- **Real-time Analysis**: Analyzes multiple stocks simultaneously using multithreading
-- **Interactive Dashboard**: Built with Streamlit for a user-friendly interface
-- **Technical Indicators**: Calculates multiple moving averages and trends
-- **Visualization**: 
-  - Candlestick charts with moving averages
-  - Sector distribution pie charts
-  - Market cap statistics
-- **Export Options**: Save analysis results in CSV and JSON formats
-
-## Useful Resources for ETF Analysis
-
-### ETF Research Websites
-
-1. **ETF.com**
-   - Comprehensive ETF research and analysis
-   - Detailed fund information and comparisons
-   - Educational resources and market insights
-
-2. **ETFdb.com**
-   - ETF database with screening tools
-   - Fund flows and performance analysis
-   - ETF comparisons and alternatives
-
-3. **Morningstar.com**
-   - In-depth ETF analysis and ratings
-   - Portfolio analysis tools
-   - Performance and risk metrics
-
-### ETF Screening Tools
-
-1. **FinViz**
-   - Advanced screening capabilities
-   - Technical and fundamental filters
-   - Visual analysis tools
-
-2. **Yahoo Finance**
-   - Free ETF screening tool
-   - Real-time data and charts
-   - Performance comparison tools
-
-3. **Charles Schwab ETF Screener**
-   - Comprehensive screening options
-   - Research and analysis tools
-   - Portfolio building features
-
-### Market Data Sources
-
-1. **Bloomberg**
-   - Professional-grade market data
-   - Global market coverage
-   - Advanced analytics
-
-2. **Reuters**
-   - Real-time market news
-   - ETF market analysis
-   - Industry insights
-
-3. **MarketWatch**
-   - Market trends and analysis
-   - ETF news and commentary
-   - Trading ideas and strategies
-
-## Usage
-
-1. Visit [SEPA Strategy Dashboard](https://usa-etf-pick-sepa-stratage.streamlit.app/)
-2. Click "Start Analysis" to begin scanning stocks
-3. View the results and analysis
-4. Export data as needed using the provided buttons
-
-## Contributing
-
-If you'd like to contribute to this project or report issues, please feel free to create an issue or pull request on the GitHub repository.
-
-## Disclaimer
-
-This tool is for informational purposes only and should not be considered as financial advice. Always conduct your own research and consult with a financial advisor before making investment decisions.
-
-## Contact
-
-For questions or feedback about the dashboard, please create an issue in the GitHub repository or reach out through the Streamlit community forums.
-
-## License
-
-This project is released under the MIT License. See the LICENSE file for details.
-
 
 
 # 미국 ETF 분석 & SEPA 전략 대시보드 📈
@@ -209,3 +104,111 @@ SEPA 전략은 다음과 같은 조건을 충족하는 주식을 찾는 기술�
 ## 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
+
+
+# US ETF Analysis & SEPA Strategy Dashboard 📈
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://usa-etf-pick-sepa-stratage.streamlit.app/)
+
+## Overview
+
+This project provides a comprehensive dashboard for analyzing US mid and small-cap stocks using the SEPA (Super Efficiency Portfolio Analysis) strategy. The dashboard helps investors identify potential investment opportunities by analyzing technical indicators and market trends.
+
+## SEPA Strategy
+
+The SEPA strategy is a technical analysis approach that looks for stocks meeting the following criteria:
+- Price is above the 200-day moving average
+- 150-day moving average is above the 200-day moving average
+- 50-day moving average is above both 150 and 200-day moving averages
+- Current price is above the 5-day moving average
+- 200-day moving average shows an upward trend
+- Price is at least 30% above the 52-week low
+
+## Features
+
+- **Real-time Analysis**: Analyzes multiple stocks simultaneously using multithreading
+- **Interactive Dashboard**: Built with Streamlit for a user-friendly interface
+- **Technical Indicators**: Calculates multiple moving averages and trends
+- **Visualization**: 
+  - Candlestick charts with moving averages
+  - Sector distribution pie charts
+  - Market cap statistics
+- **Export Options**: Save analysis results in CSV and JSON formats
+
+## Useful Resources for ETF Analysis
+
+### ETF Research Websites
+
+1. **ETF.com**
+   - Comprehensive ETF research and analysis
+   - Detailed fund information and comparisons
+   - Educational resources and market insights
+
+2. **ETFdb.com**
+   - ETF database with screening tools
+   - Fund flows and performance analysis
+   - ETF comparisons and alternatives
+
+3. **Morningstar.com**
+   - In-depth ETF analysis and ratings
+   - Portfolio analysis tools
+   - Performance and risk metrics
+
+### ETF Screening Tools
+
+1. **FinViz**
+   - Advanced screening capabilities
+   - Technical and fundamental filters
+   - Visual analysis tools
+
+2. **Yahoo Finance**
+   - Free ETF screening tool
+   - Real-time data and charts
+   - Performance comparison tools
+
+3. **Charles Schwab ETF Screener**
+   - Comprehensive screening options
+   - Research and analysis tools
+   - Portfolio building features
+
+### Market Data Sources
+
+1. **Bloomberg**
+   - Professional-grade market data
+   - Global market coverage
+   - Advanced analytics
+
+2. **Reuters**
+   - Real-time market news
+   - ETF market analysis
+   - Industry insights
+
+3. **MarketWatch**
+   - Market trends and analysis
+   - ETF news and commentary
+   - Trading ideas and strategies
+
+## Usage
+
+1. Visit [SEPA Strategy Dashboard](https://usa-etf-pick-sepa-stratage.streamlit.app/)
+2. Click "Start Analysis" to begin scanning stocks
+3. View the results and analysis
+4. Export data as needed using the provided buttons
+
+## Contributing
+
+If you'd like to contribute to this project or report issues, please feel free to create an issue or pull request on the GitHub repository.
+
+## Disclaimer
+
+This tool is for informational purposes only and should not be considered as financial advice. Always conduct your own research and consult with a financial advisor before making investment decisions.
+
+## Contact
+
+For questions or feedback about the dashboard, please create an issue in the GitHub repository or reach out through the Streamlit community forums.
+
+## License
+
+This project is released under the MIT License. See the LICENSE file for details.
+
+
